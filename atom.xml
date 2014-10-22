@@ -3,9 +3,9 @@
   <title><![CDATA[镜画者文集]]></title>
   <subtitle><![CDATA[生查子（游雨岩）]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
-  <updated>2014-10-22T06:55:43.824Z</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://pmtao.github.io/"/>
+  <updated>2014-10-22T07:00:32.271Z</updated>
+  <id>http://pmtao.github.io/</id>
   
   <author>
     <name><![CDATA[Meler Paine]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[《老生常谈》读书笔记]]></title>
-    <link href="http://localhost:4000/2014/10/09/%5B%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88%5D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://localhost:4000/2014/10/09/[老生常谈]读书笔记/</id>
+    <link href="http://pmtao.github.io/2014/10/09/%5B%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88%5D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>http://pmtao.github.io/2014/10/09/[老生常谈]读书笔记/</id>
     <published>2014-10-09T15:15:00.000Z</published>
     <updated>2014-10-21T03:06:36.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -48,18 +48,18 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="http://localhost:4000/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://pmtao.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="中国" scheme="http://localhost:4000/tags/%E4%B8%AD%E5%9B%BD/"/>
+      <category term="中国" scheme="http://pmtao.github.io/tags/%E4%B8%AD%E5%9B%BD/"/>
     
-      <category term="读书笔记" scheme="http://localhost:4000/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://pmtao.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[闲谈录]]></title>
-    <link href="http://localhost:4000/2014/09/15/%E9%97%B2%E8%B0%88%E5%BD%95/"/>
-    <id>http://localhost:4000/2014/09/15/闲谈录/</id>
+    <link href="http://pmtao.github.io/2014/09/15/%E9%97%B2%E8%B0%88%E5%BD%95/"/>
+    <id>http://pmtao.github.io/2014/09/15/闲谈录/</id>
     <published>2014-09-15T15:24:00.000Z</published>
     <updated>2014-10-20T05:23:08.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -84,16 +84,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[《美国十讲》读书笔记]]></title>
-    <link href="http://localhost:4000/2014/09/15/%5B%E7%BE%8E%E5%9B%BD%E5%8D%81%E8%AE%B2%5D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://localhost:4000/2014/09/15/[美国十讲]读书笔记/</id>
+    <link href="http://pmtao.github.io/2014/09/15/%5B%E7%BE%8E%E5%9B%BD%E5%8D%81%E8%AE%B2%5D%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>http://pmtao.github.io/2014/09/15/[美国十讲]读书笔记/</id>
     <published>2014-09-14T16:00:03.000Z</published>
     <updated>2014-10-20T07:05:36.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -118,18 +118,18 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="http://localhost:4000/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://pmtao.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="美国" scheme="http://localhost:4000/tags/%E7%BE%8E%E5%9B%BD/"/>
+      <category term="美国" scheme="http://pmtao.github.io/tags/%E7%BE%8E%E5%9B%BD/"/>
     
-      <category term="读书笔记" scheme="http://localhost:4000/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="http://pmtao.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[家乡照片]]></title>
-    <link href="http://localhost:4000/2013/02/18/%E5%AE%B6%E4%B9%A1%E7%85%A7%E7%89%87/"/>
-    <id>http://localhost:4000/2013/02/18/家乡照片/</id>
+    <link href="http://pmtao.github.io/2013/02/18/%E5%AE%B6%E4%B9%A1%E7%85%A7%E7%89%87/"/>
+    <id>http://pmtao.github.io/2013/02/18/家乡照片/</id>
     <published>2013-02-17T16:00:00.000Z</published>
     <updated>2014-10-21T08:32:29.000Z</updated>
     <content type="html"><![CDATA[<p><strong>家乡某公园照片</strong></p>
@@ -140,18 +140,18 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="照片" scheme="http://localhost:4000/tags/%E7%85%A7%E7%89%87/"/>
+      <category term="照片" scheme="http://pmtao.github.io/tags/%E7%85%A7%E7%89%87/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[追问]]></title>
-    <link href="http://localhost:4000/2012/01/11/%E8%BF%BD%E9%97%AE/"/>
-    <id>http://localhost:4000/2012/01/11/追问/</id>
+    <link href="http://pmtao.github.io/2012/01/11/%E8%BF%BD%E9%97%AE/"/>
+    <id>http://pmtao.github.io/2012/01/11/追问/</id>
     <published>2012-01-10T16:00:00.000Z</published>
     <updated>2014-10-21T08:10:49.000Z</updated>
     <content type="html"><![CDATA[<p>在闲闷之中，本想找件事情来做。但却发现，哪样都不甚合心意。做前总想知道做了有何意义，结果会如何。进一步想想，做了这些事情我又会如何，大家做了这些事情世界又会如何。看来这个问题不先想想事情是做不下去了。</p>
@@ -164,16 +164,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[美术馆之行]]></title>
-    <link href="http://localhost:4000/2012/01/01/%E7%BE%8E%E6%9C%AF%E9%A6%86%E4%B9%8B%E8%A1%8C/"/>
-    <id>http://localhost:4000/2012/01/01/美术馆之行/</id>
+    <link href="http://pmtao.github.io/2012/01/01/%E7%BE%8E%E6%9C%AF%E9%A6%86%E4%B9%8B%E8%A1%8C/"/>
+    <id>http://pmtao.github.io/2012/01/01/美术馆之行/</id>
     <published>2012-01-01T09:00:00.000Z</published>
     <updated>2014-10-21T07:59:47.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://www.namoc.org/pictures/zlk/s/20111231_cyctzgxdhhdsz_s.jpg"></p>
@@ -188,18 +188,18 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="绘画" scheme="http://localhost:4000/tags/%E7%BB%98%E7%94%BB/"/>
+      <category term="绘画" scheme="http://pmtao.github.io/tags/%E7%BB%98%E7%94%BB/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[半年]]></title>
-    <link href="http://localhost:4000/2008/07/01/%E5%8D%8A%E5%B9%B4/"/>
-    <id>http://localhost:4000/2008/07/01/半年/</id>
+    <link href="http://pmtao.github.io/2008/07/01/%E5%8D%8A%E5%B9%B4/"/>
+    <id>http://pmtao.github.io/2008/07/01/半年/</id>
     <published>2008-07-01T11:22:04.000Z</published>
     <updated>2014-10-21T10:56:03.000Z</updated>
     <content type="html"><![CDATA[<p>时间其实是停滞的，只是人在变。</p>
@@ -214,16 +214,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[半夜]]></title>
-    <link href="http://localhost:4000/2008/07/01/%E5%8D%8A%E5%A4%9C/"/>
-    <id>http://localhost:4000/2008/07/01/半夜/</id>
+    <link href="http://pmtao.github.io/2008/07/01/%E5%8D%8A%E5%A4%9C/"/>
+    <id>http://pmtao.github.io/2008/07/01/半夜/</id>
     <published>2008-07-01T10:52:10.000Z</published>
     <updated>2014-10-21T10:54:47.000Z</updated>
     <content type="html"><![CDATA[<p>许久没有明亮的夜空，一切天外来物被淡淡的烟雨遮挡着。</p>
@@ -238,16 +238,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[半雨]]></title>
-    <link href="http://localhost:4000/2008/07/01/%E5%8D%8A%E9%9B%A8/"/>
-    <id>http://localhost:4000/2008/07/01/半雨/</id>
+    <link href="http://pmtao.github.io/2008/07/01/%E5%8D%8A%E9%9B%A8/"/>
+    <id>http://pmtao.github.io/2008/07/01/半雨/</id>
     <published>2008-07-01T05:13:41.000Z</published>
     <updated>2014-10-21T09:33:17.000Z</updated>
     <content type="html"><![CDATA[<p>烟，开始聚集，越来越多，越来越挤。</p>
@@ -262,16 +262,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[半烟]]></title>
-    <link href="http://localhost:4000/2008/07/01/%E5%8D%8A%E7%83%9F/"/>
-    <id>http://localhost:4000/2008/07/01/半烟/</id>
+    <link href="http://pmtao.github.io/2008/07/01/%E5%8D%8A%E7%83%9F/"/>
+    <id>http://pmtao.github.io/2008/07/01/半烟/</id>
     <published>2008-07-01T04:52:26.000Z</published>
     <updated>2014-10-21T09:32:14.000Z</updated>
     <content type="html"><![CDATA[<p>空气中飘着水雾，烟一般。</p>
@@ -286,16 +286,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[陷阱]]></title>
-    <link href="http://localhost:4000/2008/07/01/%E9%99%B7%E9%98%B1/"/>
-    <id>http://localhost:4000/2008/07/01/陷阱/</id>
+    <link href="http://pmtao.github.io/2008/07/01/%E9%99%B7%E9%98%B1/"/>
+    <id>http://pmtao.github.io/2008/07/01/陷阱/</id>
     <published>2008-06-30T17:00:20.000Z</published>
     <updated>2014-10-21T09:31:03.000Z</updated>
     <content type="html"><![CDATA[<p>从一个陷阱跳入另一个陷阱，这是生活中经常出现的一种状态，有时你能识破它，有时你不知不觉就进去了。</p>
@@ -310,16 +310,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[失聪记]]></title>
-    <link href="http://localhost:4000/2008/03/24/%E5%A4%B1%E8%81%AA%E8%AE%B0/"/>
-    <id>http://localhost:4000/2008/03/24/失聪记/</id>
+    <link href="http://pmtao.github.io/2008/03/24/%E5%A4%B1%E8%81%AA%E8%AE%B0/"/>
+    <id>http://pmtao.github.io/2008/03/24/失聪记/</id>
     <published>2008-03-24T05:22:30.000Z</published>
     <updated>2014-10-21T09:29:42.000Z</updated>
     <content type="html"><![CDATA[<p>今天早晨的记忆真是一辈子难忘啊。</p>
@@ -338,16 +338,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[春雨]]></title>
-    <link href="http://localhost:4000/2008/03/21/%E6%98%A5%E9%9B%A8/"/>
-    <id>http://localhost:4000/2008/03/21/春雨/</id>
+    <link href="http://pmtao.github.io/2008/03/21/%E6%98%A5%E9%9B%A8/"/>
+    <id>http://pmtao.github.io/2008/03/21/春雨/</id>
     <published>2008-03-21T01:49:46.000Z</published>
     <updated>2014-10-21T09:26:46.000Z</updated>
     <content type="html"><![CDATA[<p>春天终于来了</p>
@@ -362,16 +362,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[梦想?幻想?空想?]]></title>
-    <link href="http://localhost:4000/2008/03/20/%E6%A2%A6%E6%83%B3-%E5%B9%BB%E6%83%B3-%E7%A9%BA%E6%83%B3/"/>
-    <id>http://localhost:4000/2008/03/20/梦想-幻想-空想/</id>
+    <link href="http://pmtao.github.io/2008/03/20/%E6%A2%A6%E6%83%B3-%E5%B9%BB%E6%83%B3-%E7%A9%BA%E6%83%B3/"/>
+    <id>http://pmtao.github.io/2008/03/20/梦想-幻想-空想/</id>
     <published>2008-03-20T07:12:11.000Z</published>
     <updated>2014-10-21T09:24:41.000Z</updated>
     <content type="html"><![CDATA[<p>没有人知道这个世界是谁控制的，甚至自己都不知道是不是在掌握着自己。</p>
@@ -388,16 +388,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[无题]]></title>
-    <link href="http://localhost:4000/2008/03/20/%E6%97%A0%E9%A2%98/"/>
-    <id>http://localhost:4000/2008/03/20/无题/</id>
+    <link href="http://pmtao.github.io/2008/03/20/%E6%97%A0%E9%A2%98/"/>
+    <id>http://pmtao.github.io/2008/03/20/无题/</id>
     <published>2008-03-20T07:07:40.000Z</published>
     <updated>2014-10-21T09:25:10.000Z</updated>
     <content type="html"><![CDATA[<p>世界是什么样的，我看不清楚。</p>
@@ -414,16 +414,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[听巴赫无伴奏大提琴二境]]></title>
-    <link href="http://localhost:4000/2008/03/20/%E5%90%AC%E5%B7%B4%E8%B5%AB%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4%E4%BA%8C%E5%A2%83/"/>
-    <id>http://localhost:4000/2008/03/20/听巴赫无伴奏大提琴二境/</id>
+    <link href="http://pmtao.github.io/2008/03/20/%E5%90%AC%E5%B7%B4%E8%B5%AB%E6%97%A0%E4%BC%B4%E5%A5%8F%E5%A4%A7%E6%8F%90%E7%90%B4%E4%BA%8C%E5%A2%83/"/>
+    <id>http://pmtao.github.io/2008/03/20/听巴赫无伴奏大提琴二境/</id>
     <published>2008-03-20T02:24:53.000Z</published>
     <updated>2014-10-21T09:22:29.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -442,18 +442,18 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="古典音乐" scheme="http://localhost:4000/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
+      <category term="古典音乐" scheme="http://pmtao.github.io/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[电影笔记——四月物语]]></title>
-    <link href="http://localhost:4000/2008/03/19/%E7%94%B5%E5%BD%B1%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%9B%9B%E6%9C%88%E7%89%A9%E8%AF%AD/"/>
-    <id>http://localhost:4000/2008/03/19/电影笔记——四月物语/</id>
+    <link href="http://pmtao.github.io/2008/03/19/%E7%94%B5%E5%BD%B1%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E5%9B%9B%E6%9C%88%E7%89%A9%E8%AF%AD/"/>
+    <id>http://pmtao.github.io/2008/03/19/电影笔记——四月物语/</id>
     <published>2008-03-19T11:46:38.000Z</published>
     <updated>2014-10-21T09:18:20.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -470,16 +470,16 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[『品碟』巴赫《赋格的艺术》--爱默生四重奏团]]></title>
-    <link href="http://localhost:4000/2008/03/19/%E3%80%8E%E5%93%81%E7%A2%9F%E3%80%8F%E5%B7%B4%E8%B5%AB%E3%80%8A%E8%B5%8B%E6%A0%BC%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8B-%E7%88%B1%E9%BB%98%E7%94%9F%E5%9B%9B%E9%87%8D%E5%A5%8F%E5%9B%A2/"/>
-    <id>http://localhost:4000/2008/03/19/『品碟』巴赫《赋格的艺术》-爱默生四重奏团/</id>
+    <link href="http://pmtao.github.io/2008/03/19/%E3%80%8E%E5%93%81%E7%A2%9F%E3%80%8F%E5%B7%B4%E8%B5%AB%E3%80%8A%E8%B5%8B%E6%A0%BC%E7%9A%84%E8%89%BA%E6%9C%AF%E3%80%8B-%E7%88%B1%E9%BB%98%E7%94%9F%E5%9B%9B%E9%87%8D%E5%A5%8F%E5%9B%A2/"/>
+    <id>http://pmtao.github.io/2008/03/19/『品碟』巴赫《赋格的艺术》-爱默生四重奏团/</id>
     <published>2008-03-19T05:46:45.000Z</published>
     <updated>2014-10-21T16:00:00.000Z</updated>
     <content type="html"><![CDATA[<p>才在3月份的《爱乐》中看到这张碟的介绍，今天就有人在网上放出来。正好拖下来一听。</p>
@@ -490,18 +490,18 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="古典音乐" scheme="http://localhost:4000/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
+      <category term="古典音乐" scheme="http://pmtao.github.io/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[半块巧克力]]></title>
-    <link href="http://localhost:4000/2008/03/19/%E5%8D%8A%E5%9D%97%E5%B7%A7%E5%85%8B%E5%8A%9B/"/>
-    <id>http://localhost:4000/2008/03/19/半块巧克力/</id>
+    <link href="http://pmtao.github.io/2008/03/19/%E5%8D%8A%E5%9D%97%E5%B7%A7%E5%85%8B%E5%8A%9B/"/>
+    <id>http://pmtao.github.io/2008/03/19/半块巧克力/</id>
     <published>2008-03-19T04:59:15.000Z</published>
     <updated>2014-10-21T16:00:00.000Z</updated>
     <content type="html"><![CDATA[<p>早上起来觉得不舒服，想吃点早点再回来吃药。可是一去已经发现没什么想吃的了，想起房间里还剩半块巧克力。于是又转了回来。</p>
@@ -514,18 +514,18 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="古典音乐" scheme="http://localhost:4000/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
+      <category term="古典音乐" scheme="http://pmtao.github.io/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[钢琴上的老顽童]]></title>
-    <link href="http://localhost:4000/2005/10/05/%E9%92%A2%E7%90%B4%E4%B8%8A%E7%9A%84%E8%80%81%E9%A1%BD%E7%AB%A5/"/>
-    <id>http://localhost:4000/2005/10/05/钢琴上的老顽童/</id>
+    <link href="http://pmtao.github.io/2005/10/05/%E9%92%A2%E7%90%B4%E4%B8%8A%E7%9A%84%E8%80%81%E9%A1%BD%E7%AB%A5/"/>
+    <id>http://pmtao.github.io/2005/10/05/钢琴上的老顽童/</id>
     <published>2005-10-05T12:20:10.000Z</published>
     <updated>2014-10-21T16:00:00.000Z</updated>
     <content type="html"><![CDATA[<p>其实在我眼里，那些弹钢琴的老头老太们都是些老顽童。</p>
@@ -540,11 +540,11 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://localhost:4000/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="古典音乐" scheme="http://localhost:4000/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
+      <category term="古典音乐" scheme="http://pmtao.github.io/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="随笔" scheme="http://localhost:4000/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://pmtao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
