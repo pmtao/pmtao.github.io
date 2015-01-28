@@ -16,10 +16,10 @@ if(currentLang == 'zh'){
 
 try {
   initComment();
-  showCommentCount();
+  window.onload = showCommentCount;
 
 } catch (e) {
-  alert("name: " + e.name + ",message: " + e.message);
+  //alert("name: " + e.name + ",message: " + e.message);
 }
 
 //加载disqus评论模块
@@ -57,7 +57,6 @@ function show_duoshuo(){
 //控制[评论统计数]的显示方式
 function showCommentCount(){
   var arr = document.getElementsByTagName("a");
-  alert(arr.length);
   for(i=0;i<arr.length;i++){
     if(showedLang == 'global'){
       if(arr[i].id=="disqusCount") arr[i].style.display = "";
@@ -92,11 +91,11 @@ function switchComment(selfObject){
   initComment();//切换评论系统后需要加载对应的外接代码
 
   if(showedLang == 'global'){
-    document.getElementById("commentSwitcher").innerHTML='View Duoshuo Comment';
+    document.getElementById("commentSwitcher").innerHTML='(View Chinese Duoshuo Comments)';
     document.getElementById("ds-thread").style.display = "none";
     document.getElementById("disqus_thread").style.display = "block";
   }else if(showedLang == 'zh'){
-    document.getElementById("commentSwitcher").innerHTML='查看Disqus评论';
+    document.getElementById("commentSwitcher").innerHTML='(查看Disqus评论)';
     document.getElementById("ds-thread").style.display = "block";
     document.getElementById("disqus_thread").style.display = "none";
   }
