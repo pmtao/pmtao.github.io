@@ -76,6 +76,15 @@
 
     <script src="/js/jquery.min.js"></script>
 
+    <!-- 加载评论处理程序模块 -->
+    
+      <script type="text/javascript">
+        var disqus_shortname = 'pmtao';
+        var duoshuoQuery = {short_name:"pmtao"};
+      </script>
+      <script src="/js/MelerPaine.js"></script>
+    
+
 </head>
 <body>
 
@@ -249,15 +258,30 @@ classes that you can use:
         <time datetime="2014年10月26日" class="post-meta__date date">2014年10月26日</time> &#8226;
 
         <span class="post-meta__tags tags">
+          <!-- 加载分类、标签、评论数等标记 -->
+          <!-- 加载分类、标签、评论数等标记，显示在文章标题下方。 -->
+<font class="categories">
+  分类: <a class="categories-link" href="/categories/随笔/">随笔</a>
+</font>
 
-            <font class="categories">
-              分类：<a class="categories-link" href="/categories/随笔/">随笔</a>
-            </font>
-            &nbsp;&nbsp;tags： 
-              <font class="tags">
-                <a class="tags-link" href="/tags/随笔/">随笔</a>
-              </font>
-            
+<font class="categories">&nbsp;&nbsp;
+  标签: 
+    <a class="tags-link" href="/tags/随笔/">随笔</a>
+  </font>
+
+
+
+  <font class="categories">&nbsp;&nbsp;
+    留言:
+    
+      <a id="duoshuoCount" href="/2014/10/26/空虚与虚空/#ds-thread"><span class="ds-thread-count" data-thread-key="post-2014/10/26/空虚与虚空/">欢迎留言</span></a>
+    
+
+    
+      <a id="disqusCount" href="/2014/10/26/空虚与虚空/#disqus_thread">欢迎留言</a>
+    
+  </font>
+
 
         </span>
       </div>
@@ -303,7 +327,7 @@ classes that you can use:
     <section class="post">
     
       <p class="icon icon-previous">
-      <a href="http://melerpaine.com/2014/11/30/[漫谈中国文化—金融·企业·国学]读书笔记/">上一篇：《漫谈中国文化 — 金融·企业·国学》读书笔记</a>
+      <a href="/2014/11/30/[漫谈中国文化—金融·企业·国学]读书笔记/">上一篇：《漫谈中国文化 — 金融·企业·国学》读书笔记</a>
       </p>
     
 
@@ -313,28 +337,34 @@ classes that you can use:
 
     
       <p class="icon icon-next">
-      <a href="http://melerpaine.com/2014/10/09/[老生常谈]读书笔记/">下一篇：《老生常谈》读书笔记</a>
+      <a href="/2014/10/09/[老生常谈]读书笔记/">下一篇：《老生常谈》读书笔记</a>
       </p>
     
     </section>
 
     
 
-<section class="post-comments">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-      var disqus_shortname = 'pmtao';
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</section>
 
+  <section class="post-comments">
+
+  
+    <a id="commentSwitcher" href="#commentSwitcher" onclick="switchComment(this)" >查看评论</a>
+    </br></br>
+  
+
+  
+    <div id="disqus_thread"></div>
+  
+
+  
+    <div id="ds-thread" class="ds-thread" data-thread-key="post-2014/10/26/空虚与虚空/" data-title="空虚与虚空" data-url="http://melerpaine.com/2014/10/26/空虚与虚空/"></div>
+  
+
+  <script type="text/javascript">
+    switchComment();
+  </script>
+
+  </section>
 
 
   </article>

@@ -38,6 +38,15 @@
 
     <script src="/js/jquery.min.js"></script>
 
+    <!-- 加载评论处理程序模块 -->
+    
+      <script type="text/javascript">
+        var disqus_shortname = 'pmtao';
+        var duoshuoQuery = {short_name:"pmtao"};
+      </script>
+      <script src="/js/MelerPaine.js"></script>
+    
+
 </head>
 <body>
 
@@ -254,7 +263,7 @@ classes that you can use:
       </p>
 
 
-        <a href="http://melerpaine.com/2014/09/15/[美国十讲]读书笔记/">...阅读全文</a>
+        <a href="/2014/09/15/[美国十讲]读书笔记/">...阅读全文</a>
 
 
       <div class="post-list__meta">
@@ -262,14 +271,30 @@ classes that you can use:
         <time datetime="2014年09月15日" class="post-list__meta--date date">2014年09月15日</time> &#8226;
 
         <span class="post-list__meta--tags tags">
-          <font class="categories">
-            分类：<a class="categories-link" href="/categories/读书笔记/">读书笔记</a>
-          </font>
-          &nbsp;&nbsp;tags： 
-            <font class="tags">
-              <a class="tags-link" href="/tags/美国/">美国</a>, <a class="tags-link" href="/tags/读书笔记/">读书笔记</a>
-            </font>
-          
+          <!-- 加载分类、标签、评论数等标记 -->
+          <!-- 加载分类、标签、评论数等标记，显示在文章标题下方。 -->
+<font class="categories">
+  分类: <a class="categories-link" href="/categories/读书笔记/">读书笔记</a>
+</font>
+
+<font class="categories">&nbsp;&nbsp;
+  标签: 
+    <a class="tags-link" href="/tags/美国/">美国</a>, <a class="tags-link" href="/tags/读书笔记/">读书笔记</a>
+  </font>
+
+
+
+  <font class="categories">&nbsp;&nbsp;
+    留言:
+    
+      <a id="duoshuoCount" href="/2014/09/15/[美国十讲]读书笔记/#ds-thread"><span class="ds-thread-count" data-thread-key="post-2014/09/15/[美国十讲]读书笔记/">欢迎留言</span></a>
+    
+
+    
+      <a id="disqusCount" href="/2014/09/15/[美国十讲]读书笔记/#disqus_thread">欢迎留言</a>
+    
+  </font>
+
 
         </span>
       </div>
